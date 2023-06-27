@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">Cloud Security Operations Engineer specializing in architecting robust defenses, automating security operations, and driving threat hunting and incident response to safeguard digital assets in cloud environments.</h3>
+<h3 align="center">A passionate cyber security professional from Kenya</h3>
 
 - 🔭 I’m currently working on **Integrating DevSecOps tools in Jenkins CI/CD Pipeline**
 
